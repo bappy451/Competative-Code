@@ -6,13 +6,11 @@ Because the resultant value contain the round trip. If you want to calculate the
 Good luck :)
 
 
-<!-- Commented lines
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; y= mx + c  " />
--->
-
 
 ### 11547AutomaticAnswer
 This problem is one of the easiest problem. All you have to do is find the result after calculation which is given in the problem.
+
+![res = (((((x*567)/9)+7492)*235)/47)-498](http://www.sciweavers.org/tex2img.php?eq=%24%24%0D%0Ares%20%3D%20%28%28%28%28%28x%2A567%29%2F9%29%2B7492%29%2A235%29%2F47%29-498%0D%0A%24%24&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 
 ```math
 res = (((((x*567)/9)+7492)*235)/47)-498
