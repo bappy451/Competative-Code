@@ -27,11 +27,9 @@ res = ((((x*63)+7492))*5)-498
 After calculating this we need to find out the _**10th**_ position of the number.
 To find out that we can use modulus
 
-```math
-res = res \% 100
-```
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; res = res \% 100 " />
 
-this provide the last two digit of the number. Then we can find out our final result by
+This provide the last two digit of the number. Then we can find out our final result by
 
 ```math
 res = res/10
