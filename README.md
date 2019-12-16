@@ -8,24 +8,19 @@ Good luck :)
 ### 11547AutomaticAnswer
 This problem is one of the easiest problem. All you have to do is find the result after calculation which is given in the problem.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;
-res = (((((x*567)/9)+7492)*235)/47)-498 " />
-$$
-res = (((((x*567)/9)+7492)*235)/47)-498
-$$
+<p align="center"><img alt="$$&#10; res = (((((x*567)/9)+7492)*235)/47)-498 &#10;$$" src="svgs/32737e0a8d5a4cf32ba3ab1b74902ab7.png?invert_in_darkmode" align=middle width="127.89183pt" height="39.30498pt"/></p>
+
 can be rewrite author:
-$$
-res = ((((x*63)+7492))*5)-498
-$$
+
+<p align="center"><img alt="$$&#10; res = ((((x*63)+7492))*5)-498 &#10;$$" src="svgs/32737e0a8d5a4cf32ba3ab1b74902ab7.png?invert_in_darkmode" align=middle width="127.89183pt" height="39.30498pt"/></p>
+
 After calculating this we need to find out the _**10th**_ position of the number.
 To find out that we can use modulus
-$$
-res = res \% 100
-$$
+
+<p align="center"><img alt="$$&#10; res = res \% 100 &#10;$$" src="svgs/32737e0a8d5a4cf32ba3ab1b74902ab7.png?invert_in_darkmode" align=middle width="127.89183pt" height="39.30498pt"/></p>
+
 this provide the last two digit of the number. Then we can find out our final result by
 
-$$
-res = res/10
-$$
+<p align="center"><img alt="$$&#10; res = res/10 &#10;$$" src="svgs/32737e0a8d5a4cf32ba3ab1b74902ab7.png?invert_in_darkmode" align=middle width="127.89183pt" height="39.30498pt"/></p>
 
 That's all :)
