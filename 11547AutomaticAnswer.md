@@ -22,3 +22,4 @@ this provide the last two digit of the number. Then we can find out our final re
 res = res/10  " />
 
 That's all :)
+$\text res = res/10  $
