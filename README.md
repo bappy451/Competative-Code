@@ -83,3 +83,6 @@ getline (cin,mystr);
 
 Because cin will give you only one word at a time on the other hand getline will give you the entire line as a single string.
 That' all :)
+
+### 12577Hajj_e_Akbar
+This problem is just like  *__2250LanguageDetection__*
