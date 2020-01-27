@@ -43,8 +43,8 @@ int number_summer(int num)
 int main()
 {
     string name1, name2;
-    freopen("in.txt","r",stdin);
-    freopen("out.txt","w",stdout);
+    //freopen("in.txt","r",stdin);
+    //freopen("out.txt","w",stdout);
     while(getline(cin,name1))
     {
         getline(cin,name2);
